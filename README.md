@@ -1,3 +1,2 @@
 # testrepo 
-
-#IDontKnowWhatImDoing
+Trying to learn code
